@@ -1,0 +1,51 @@
+.about, em, .button-container {
+   font-size: larger;
+}
+
+h1 {
+    background-color: rgb(247, 245, 243);
+    padding: 20px 5px;
+}
+
+li {
+    font-size: 1.2rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+.unstyled-list {
+    list-style: none;
+    margin-left: 100px;
+}
+
+
+span {
+    color: grey;
+    font-size: 1.2rem;
+}
+
+bold {
+    font-weight: bolder;
+}
+
+
+.inline .name{
+    width: 200px;
+    display: inline-block;
+}
+
+.inline hr {
+    width: 300px;
+    display: inline-block;
+}
+
+.button-container {
+    text-align: center;
+    color: gray;
+    padding-top: 100px;
+    height: 300px;
+    background-color: rgb(247, 245, 243);
+
+}
